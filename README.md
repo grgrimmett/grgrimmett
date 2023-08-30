@@ -1,4 +1,4 @@
-### Hi there 👋
+### Wassup 👋
 
 I am completely new to github and the world of coding. I am looking forward to learning more with my CompSci class and still trying to figure things out.
 
