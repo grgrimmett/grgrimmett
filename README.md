@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**grgrimmett/grgrimmett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am completely new to github and the world of coding. I am looking forward to learning more with my CompSci class and still trying to figure things out.
 
 - 🔭 I’m currently working on ... getting to know github for the first time in a CompSci class
 - 🌱 I’m currently learning ... what it's going to take to make it as an engineering major
