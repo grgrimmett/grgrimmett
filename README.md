@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<--
 **grgrimmett/grgrimmett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... gregory.grimmett@student.northampton.edu
 - 😄 Pronouns: ... (he/him)
 - ⚡ Fun fact: ... my dream project car is to own a El Camino.
--->
